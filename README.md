@@ -1,6 +1,6 @@
 # Dungeon Crawler
 
-I coded this and the Rust program found in the [dungeoncrawlerecs](https://github.com/jdjaustin/dungeoncrawlerecs) repository by following along in [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) by Herbert Wolverson.
+I coded this and the Rust program found in the [dungeoncrawlecs](https://github.com/jdjaustin/dungeoncrawlecs) repository by following along in [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) by Herbert Wolverson.
 
 It's a simple dungeon crawler game that uses the up, down, left, and right arrows to move around a character. Game art was sourced from: [Buch](https://opengameart.org/content/unfinished-dungeon-tileset); [Melissa Krautheim](https://opengameart.org/content/fantasy-magic-set); and [Dungeon Crawl Stone Coup](https://github.com/crawl/tiles) under CC Zero license.
 
